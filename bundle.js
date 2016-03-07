@@ -2,11 +2,12 @@
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
-	value: true
+    value: true
 });
-
-exports.default = function () {
-	console.log("Hello world");
+var util = function util() {
+    console.log("Hello world");
 };
+
+exports.default = util;
 
 },{}]},{},[1]);
