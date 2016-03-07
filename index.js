@@ -1,3 +1,3 @@
-var util = require('./script.js');
+var util = require('./bundle.js');
 
 exports["default"] = util;
