@@ -4,9 +4,9 @@
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
-var util = function util() {
+function util() {
     console.log("Hello world");
-};
+}
 
 exports.default = util;
 

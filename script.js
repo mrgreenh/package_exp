@@ -1,4 +1,4 @@
-var util = function(){
+function util(){
     console.log("Hello world");
 }
 
