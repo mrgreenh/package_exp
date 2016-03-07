@@ -1,5 +1,3 @@
-function util(){
-    console.log("Hello world");
-}
-
-module.exports = util;
+module.exports = function(){
+    console.log("Hello world im the imported shit");
+};
