@@ -2,4 +2,4 @@ function util(){
     console.log("Hello world");
 }
 
-export default util;
+module.exports = util;
