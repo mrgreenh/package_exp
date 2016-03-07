@@ -1,3 +1,3 @@
 var util = require('./script.js');
 
-module.exports = util;
+exports["default"] = util;
